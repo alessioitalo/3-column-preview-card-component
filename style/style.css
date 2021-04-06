@@ -1,0 +1,77 @@
+body{
+  font-size: 12px;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+
+.car-type{
+  color: hsl(0, 0%, 95%);
+  font-family: 'Big Shoulders Display', cursive;
+  font-weight: 700;
+}
+
+.description{
+  margin-bottom: 40%;
+}
+
+.container{
+  margin-top: 3%;
+  width: 60%;
+}
+
+.sedan{
+  background-color: hsl(31, 77%, 52%);
+}
+
+.suv{
+  background-color: hsl(184, 100%, 22%);
+}
+
+.luxury{
+  background-color: hsl(179, 100%, 13%);
+}
+
+.card{
+  padding: 5%;
+  border-radius: 0;
+}
+
+.btn{
+  margin-top: 4%;
+  position: absolute;
+  border-radius: 20px;
+  bottom: 20px;
+  font-size: 12px;
+  mix-blend-mode: screen;
+}
+
+.btn:hover{
+  background-color: hsla(0, 100%, 30%, 0.3);
+  color: white;
+}
+
+.car-icon{
+  width: 30%;
+  margin-bottom: 30%;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: hsl(228, 45%, 2%);
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media (max-width: 375px){
+  .btn{
+    margin-top: 4%;
+  }
+  .car-icon{
+    width: 30%;
+    margin-bottom: 15%;
+  }
+}
