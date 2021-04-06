@@ -1,6 +1,6 @@
 Deployed app [here](https://3-column-preview-card-component-two.vercel.app/)
 
-Frontend Mentor report [here](https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-ulC2PVqix)
+Frontend Mentor report [here](https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-ulC2PVqix/report)
 
 # Frontend Mentor - 3-column preview card component
 
